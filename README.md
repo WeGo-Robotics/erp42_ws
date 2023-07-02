@@ -9,7 +9,7 @@ git clone https://github.com/WeGo-Robotics/erp42_ros_ws.git
 2.다운로드 받은 ```erp42_ros_ws``` 폴더로 이동합니다.
 
 ```
-cd limo_ws
+cd erp42_ros_ws
 ```
 
 3. 터미널에 다음과 같이 입력하여, 원클릭 셋팅 파일의 권한을 열어줍니다.
