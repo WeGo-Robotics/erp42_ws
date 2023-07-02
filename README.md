@@ -37,7 +37,6 @@ roscore
 ```
 
 ```roscore```가 실행되었다면, 터미널에 다음과 같이 입력하여 파일을 실행해 봅니다.
-ex)
 
 ```
 roslaunch erp42_base.launch
