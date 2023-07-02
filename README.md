@@ -27,13 +27,8 @@ sudo chmod 777 permission.bash
 
 5. 터미널에 다음(```password for $USER:```)과 같이 출력되면 패스워드를 입력합니다.
 
-6. 터미널에 다음과 같이 입력하여, ros master를 실행합니다.
 
-```
-roscore
-```
-
-```roscore```가 실행되었다면, 터미널에 다음과 같이 입력하여 파일을 실행해 봅니다.
+6. ```roscore```가 실행되었다면, 터미널에 다음과 같이 입력하여 파일을 실행해 봅니다.
 
 ```
 roslaunch erp42_base.launch
