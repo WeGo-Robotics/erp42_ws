@@ -4,7 +4,7 @@
 
 git clone https://github.com/WeGo-Robotics/limo_ws.git
 
-2.다운로드 받은 limo_ws 폴더로 이동합니다.
+2.다운로드 받은 erp42_ros_ws 폴더로 이동합니다.
 
 cd limo_ws
 
@@ -29,7 +29,7 @@ roscore
 roscore가 실행되었다면, 터미널에 다음과 같이 입력하여 파일을 실행해 봅니다.
 ex)
 
-rosrun opencv_edu 1.grayscale.py
+roslaunch erp42_base.launch
 
 9.rostopic list를 입력하여, 코드가 실행되어 있는지 확인합니다.
 
