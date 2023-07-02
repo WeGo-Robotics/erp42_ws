@@ -26,9 +26,11 @@ sudo chmod 777 permission.bash
 ※원클릭 셋팅 파일(```permission.sh```)은 빌드(```catkin_make```) 및 사용하시는 쉘(bash or zsh)에 맞춰서 쉘의 환경설정 파일(```~/.bashrc``` or ```~/.zshrc```)에 현재 워크스페이스(```$Current_path```)의 경로를 설정(```source devel/setup.bash``` or ```source devel/setup.zsh```)합니다.
 
 5. 터미널에 다음(```password for $USER:```)과 같이 출력되면 패스워드를 입력합니다.
+```
+password for $USER:<<PASSWORD>>
+```
 
-
-6. 터미널에 다음과 같이 입력하여, ros master를 실행합니다.
+7. 터미널에 다음과 같이 입력하여, ros master를 실행합니다.
 
 ```
 roscore
