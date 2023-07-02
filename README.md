@@ -3,7 +3,7 @@
 1.터미널에 다음과 같이 입력하여 코드를 다운로드 받습니다.
 
 ```
-git clone https://github.com/WeGo-Robotics/limo_ws.git
+git clone https://github.com/WeGo-Robotics/erp42_ros_ws.git.git
 ```
 
 2.다운로드 받은 ```erp42_ros_ws``` 폴더로 이동합니다.
