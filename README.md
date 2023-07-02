@@ -31,7 +31,7 @@ sudo chmod 777 permission.bash
 6. ```roscore```가 실행되었다면, 터미널에 다음과 같이 입력하여 파일을 실행해 봅니다.
 
 ```
-roslaunch erp42_base.launch
+roslaunch erp_driver erp42_base.launch
 ```
 
 7. ```rostopic list```를 입력하여, 코드가 실행되어 있는지 확인합니다.
