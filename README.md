@@ -6,7 +6,7 @@
 
 2.다운로드 받은 erp42_ros_ws 폴더로 이동합니다.
 
-'cd limo_ws'
+*'cd limo_ws'
 
 터미널에 다음과 같이 입력하여, 원클릭 셋팅 파일의 모든 권한을 열어줍니다. sudo chmod 777 permission.bash
 
